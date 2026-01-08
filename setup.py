@@ -7,12 +7,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="budiajimatrix",
     version="1.0.0",
-    author="Budi Aji",
-    author_email="your.email@example.com",  # Ganti dengan email Anda
+    author="Ferdian Bangkit Wijaya",
+    author_email="ferdian.bangkit@untirta.ac.id",  # Ganti dengan email Anda
     description="Library pengolahan matrix lengkap untuk Python - cocok untuk time series, GSTAR, VARIMA, dan analisis statistik",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/budiajimatrix",  # Ganti dengan URL GitHub Anda
+    url="https://github.com/ferdianwijayabangkit/budiajimatrix",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 5 - Production/Stable",
@@ -45,7 +45,7 @@ setup(
         ],
     },
     project_urls={
-        "Bug Reports": "https://github.com/yourusername/budiajimatrix/issues",
-        "Source": "https://github.com/yourusername/budiajimatrix",
+        "Bug Reports": "https://github.com/ferdianwijayabangkit/budiajimatrix/issues",
+        "Source": "https://github.com/ferdianwijayabangkit/budiajimatrix",
     },
 )
